@@ -26,7 +26,7 @@ Pandas · NumPy · pyodbc · Scikit-Learn · Feature Engineering · PCA
 
 ### 🚀 What I've built
 
-**[E-Commerce ETL Pipeline](https://github.com/Soha-Samer/ecommerce)** — *Personal project, Apr 2026*
+**[E-Commerce ETL Pipeline](https://github.com/Soha-Samer/ecommerce-etl)** — *Personal project, Apr 2026*
 Python ETL pipeline ingesting 100,000+ e-commerce orders from 9
 raw CSV files into a normalized SQL Server database with automated
 data quality validation (NULL checks, duplicate keys, outlier
