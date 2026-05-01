@@ -1,46 +1,61 @@
-# Hi, I'm Soha Elansary 👋
+### Hi, I'm Soha 👋
 
-**Data Analyst** · SQL · Power BI · Cairo, Egypt
-📧 sohasamer75@gmail.com · [LinkedIn](https://www.linkedin.com/in/soha-samer-352504230/)
+Computer Science graduate (January 2026) building data systems
+that make business decisions easier — ETL pipelines, relational
+databases, and Power BI dashboards that executives actually use.
 
----
-
-## About me
-
-CS graduate specializing in Data Analysis and Business Intelligence.  
-I design relational databases, write complex SQL queries, and turn raw  
-data into Power BI dashboards that drive real decisions.
-
-Previously at **EFG Holding** — consolidating 15,000+ attendance records  
-and engineering financial KPIs across 1,400+ transactions.
+📍 Cairo, Egypt → open to relocate to the Netherlands / EU
+🎓 B.S. Computer Science, UPEI Cairo Campus
+💼 Two BI internships at EFG Holding (Egypt's largest investment bank)
+🛂 Eligible for the Dutch Highly Skilled Migrant permit
 
 ---
 
-## Tech stack
+### 🔧 What I work with
 
-**Core:** SQL (MySQL) · Power BI (Advanced DAX) · Excel  
-**Supporting:** Python (Pandas, NumPy) · Tableau · R  
-**Database:** Relational Design · 3NF Normalization · ERD · ETL  
-**Bonus:** Scikit-Learn · Random Forest · PCA · SMOTE  
+**Data & SQL**
+SQL Server · MySQL · 3NF Database Design · ETL Pipelines · Data Modeling · ERD
 
----
+**BI & Analytics**
+Power BI (Advanced DAX) · Excel (Power Query, Pivot Tables) · Tableau
 
-## Featured projects
-
-### Customer Segmentation (RFM) `SQL` `Power BI` `Python`
-541,000+ rows — SQL engine segments customers by Recency, Frequency  
-& Monetary value to optimize marketing ROI
-
-### Food App Database Architecture `SQL` `MySQL`
-3NF normalized schema · 10+ tables · dynamic pricing logic  
-Real-time order state machine: Pending → Accepted → Cancelled
-
-### Movie Theatre Database `SQL` `JavaScript`
-Full relational DB system managing screenings, tickets, and customers
+**Python**
+Pandas · NumPy · pyodbc · Scikit-Learn · Feature Engineering · PCA
 
 ---
 
-## Currently
-- Finishing B.S. Computer Science at UPEI Cairo (2026)
-- Actively applying for Junior Data Analyst / BI Analyst roles 
-- Open to relocation immediately
+### 🚀 What I've built
+
+**[E-Commerce ETL Pipeline](https://github.com/Soha-Samer/ecommerce)** — *Personal project, Apr 2026*
+Python ETL pipeline ingesting 100,000+ e-commerce orders from 9
+raw CSV files into a normalized SQL Server database with automated
+data quality validation (NULL checks, duplicate keys, outlier
+detection). Built SQL views feeding a Power BI dashboard for 7
+executive KPIs.
+
+**[Customer Segmentation – RFM Analysis](https://github.com/Soha-Samer/Customer-Segmentation-RFM)** — *Personal project, Jan 2026*
+Multi-stage SQL pipeline scoring 541,000+ customers on Recency,
+Frequency, and Monetary value. Segmented into actionable tiers
+(Champions, At-Risk, Lost) and visualized in Power BI to flag
+churn risk for marketing teams.
+
+**[Food Pickup Mobile App – Database Architect](https://github.com/Soha-Samer/Food-App-Database-Architecture)** — *Graduation project, Oct 2025 – Jan 2026*
+Architected a 3NF database (10+ tables) for a campus food-pickup
+app. Programmed SQL business logic for dynamic pricing by user
+segment and a real-time state machine for order lifecycles.
+
+---
+
+### 🌱 Recently focused on
+
+- Building production-grade ETL pipelines with proper data quality gates
+- Designing relational schemas that handle real-world edge cases (split payments, multi-status order flows)
+- Translating ambiguous stakeholder requirements into testable data outputs
+
+---
+
+### 📫 Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/soha-samer-352504230/)
+- 📧 sohasamer75@gmail.com
+
