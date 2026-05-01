@@ -4,10 +4,9 @@ Computer Science graduate (January 2026) building data systems
 that make business decisions easier — ETL pipelines, relational
 databases, and Power BI dashboards that executives actually use.
 
-📍 Cairo, Egypt → open to relocate to the Netherlands / EU
+📍 Cairo, Egypt
 🎓 B.S. Computer Science, UPEI Cairo Campus
 💼 Two BI internships at EFG Holding (Egypt's largest investment bank)
-🛂 Eligible for the Dutch Highly Skilled Migrant permit
 
 ---
 
