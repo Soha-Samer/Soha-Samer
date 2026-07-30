@@ -1,4 +1,4 @@
-+### Hi, I'm Soha 👋
+### Hi, I'm Soha 👋
 
 Computer Science graduate and Data Analyst based in Cairo. I like taking raw,
 messy data from many sources, making sure it's accurate, and turning it into
